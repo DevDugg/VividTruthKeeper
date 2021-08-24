@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me 
---@indecentvivid (IG),
---mr.aydogdy02@gmail.com (email)
+- -@indecentvivid (IG),
+- -mr.aydogdy02@gmail.com (email)
 
 <!---
 VividTruthKeeper/VividTruthKeeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
