@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VividTruthKeeper
 - 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me:
 - @indecentvivid (IG),
