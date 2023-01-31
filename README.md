@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me:
-- @indecentvivid (IG),
+- @duggthevicious (IG),
 - mr.aydogdy02@gmail.com (email)
 
 <!---
