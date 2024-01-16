@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aydogdy</h1>
 <h3 align="center">An experienced web developer from Turkmenistan</h3>
 
-<p align="left"> <a href="https://twitter.com/duggthevicious" target="blank"><img src="https://img.shields.io/twitter/follow/duggthevicious?logo=twitter&style=for-the-badge" alt="duggthevicious" /></a> </p>
+<p align="left"> <a href="https://twitter.com/duggsquarelogic" target="blank"><img src="https://img.shields.io/twitter/follow/duggsquarelogic?logo=twitter&style=for-the-badge" alt="duggsquarelogic" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS, SanityIO**
 
