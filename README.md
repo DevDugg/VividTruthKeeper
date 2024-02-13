@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/duggsquarelogic" target="blank"><img src="https://img.shields.io/twitter/follow/duggsquarelogic?logo=twitter&style=for-the-badge" alt="duggsquarelogic" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, SanityIO**
+- 🌱 I’m currently learning **SOLID, Three.js, Jest**
 
 - 👯 I’m looking to collaborate on **design and web projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VividTruthKeeper](https://github.com/VividTruthKeeper)
 
-- 💬 Ask me about **HTML, CSS. JavaScript, TypeScript, React,Tailwind NextJS**
+- 💬 Ask me about **HTML, CSS. JavaScript, TypeScript, React, Tailwind NextJS**
 
 - 📫 How to reach me **duggthevicious@gmail.com**
 
